@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/brick1.png</file>
+        <file>Images/bullet.png</file>
+        <file>Images/bush.png</file>
+        <file>Images/defeat.png</file>
+        <file>Images/eagle.png</file>
+        <file>Images/exitBtn_disable.png</file>
+        <file>Images/exitBtn_enable.png</file>
+        <file>Images/Explosion.png</file>
+        <file>Images/HeavyTank.png</file>
+        <file>Images/LightTank.png</file>
+        <file>Images/MediumTank.png</file>
+        <file>Images/player.png</file>
+        <file>Images/singleBtn_disable.png</file>
+        <file>Images/singleBtn_enable.png</file>
+        <file>Images/Steel.png</file>
+        <file>Images/title.png</file>
+        <file>Images/victory.png</file>
+    </qresource>
+</RCC>

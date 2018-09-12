@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Maps/Level1.txt</file>
+        <file>Maps/Level2.txt</file>
+    </qresource>
+</RCC>
